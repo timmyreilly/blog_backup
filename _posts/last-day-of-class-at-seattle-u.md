@@ -18,6 +18,6 @@ Today was my last day of class, and to reflect I've written down 10 things I'm g
 
 College is fun.
 
-\[caption id="attachment\_251" align="alignnone" width="474"\][![James O'Donoghue and Gabe Cambell](images/IMG_20140606_191753-768x1024.jpg)](http://timmyreilly.com/wp-content/uploads/2014/06/IMG_20140606_191753.jpg) My buddies James O'Donoghue and Gabe Cambell\[/caption\]
+\[caption id="attachment\_251" align="alignnone" width="474"\][![James O'Donoghue and Gabe Cambell](images/IMG_20140606_191753-768x1024.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/06/IMG_20140606_191753.jpg) My buddies James O'Donoghue and Gabe Cambell\[/caption\]
 
-\[caption id="attachment\_253" align="alignnone" width="474"\][![Me, Garrett Sketlon, Jemin Shim, and James O'Donoghue](images/IMG_20140113_213418-1024x757.jpg)](http://timmyreilly.com/wp-content/uploads/2014/06/IMG_20140113_213418.jpg) 4 Roommates 1Couch\[/caption\]
+\[caption id="attachment\_253" align="alignnone" width="474"\][![Me, Garrett Sketlon, Jemin Shim, and James O'Donoghue](images/IMG_20140113_213418-1024x757.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/06/IMG_20140113_213418.jpg) 4 Roommates 1Couch\[/caption\]

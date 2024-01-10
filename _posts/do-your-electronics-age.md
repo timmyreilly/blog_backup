@@ -41,4 +41,4 @@ Aging has not been a major part of this device's 6 months of service, and I beli
 
 Nexus 5 Overall: VERY GOOD!
 
-\[caption id="attachment\_218" align="alignnone" width="474"\][![Here's a photo of the tree outside my house taken with the Nexus 5. Actually most the photos on this site were taken with that camera! ](images/IMG_20140503_113417-1024x768.jpg)](http://timmyreilly.com/wp-content/uploads/2014/05/IMG_20140503_113417.jpg) Here's a photo of the tree outside my house taken with the Nexus 5. Actually most the photos on this site were taken with that camera! \[/caption\]
+\[caption id="attachment\_218" align="alignnone" width="474"\][![Here's a photo of the tree outside my house taken with the Nexus 5. Actually most the photos on this site were taken with that camera! ](images/IMG_20140503_113417-1024x768.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/05/IMG_20140503_113417.jpg) Here's a photo of the tree outside my house taken with the Nexus 5. Actually most the photos on this site were taken with that camera! \[/caption\]

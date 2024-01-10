@@ -23,4 +23,4 @@ Food provides such an awesome sensory experience, and is so valuable to what I c
 
 IN CLOSING! Senses are essential to our interaction with the world and our sense of time is dependent on what we're doing. When I want to understand what is happening, or how to improve my life or the lives of those around me. I will remember to consider the depth our senses have to our understanding of the world and its impact on the formation of our personalities.
 
-Here's a photo of my hand print in some ice crystals! [![IMG_20140105_101417](images/IMG_20140105_101417-222x300.jpg)](http://timmyreilly.com/wp-content/uploads/2014/02/IMG_20140105_101417.jpg)
+Here's a photo of my hand print in some ice crystals! [![IMG_20140105_101417](images/IMG_20140105_101417-222x300.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/02/IMG_20140105_101417.jpg)

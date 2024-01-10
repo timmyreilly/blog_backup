@@ -5,7 +5,7 @@ date: "2014-04-16"
 
 A university would be a great place for a Utopia. A utopia focusing on learning, collaborating, and contributing to higher understanding would fuel a balanced lifestyle.
 
-[![1393363443873](images/1393363443873-622x1024.jpg)The Chapel of St. Ignatius at Seattle U my soon to be Alma mater. For whatever reason certain things always look good.](http://timmyreilly.com/wp-content/uploads/2014/04/1393363443873.jpg)
+[![1393363443873](images/1393363443873-622x1024.jpg)The Chapel of St. Ignatius at Seattle U my soon to be Alma mater. For whatever reason certain things always look good.](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/04/1393363443873.jpg)
 
 Focus on Education is the main priority, I postulate that while we're on earth we should focus on learning what we can about the universe and our world so we can take steps to make it a better place for its inhabitants.
 
@@ -21,4 +21,4 @@ Recreation: Fields and organized activities for everyone! Student clubs are inte
 
 I'd love to spend time in this community and in some ways I already do as a student, and I'm now realizing how valuable that time has been, and I look forward to promoting this style of institution in the future.
 
- [![Chapel](images/IMG_20140415_104040-768x1024.jpg) Do leaves change in color in the spring like flowers do? Crazy plant patterns are beautiful.](http://timmyreilly.com/wp-content/uploads/2014/04/IMG_20140415_104040.jpg)
+ [![Chapel](images/IMG_20140415_104040-768x1024.jpg) Do leaves change in color in the spring like flowers do? Crazy plant patterns are beautiful.](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/04/IMG_20140415_104040.jpg)

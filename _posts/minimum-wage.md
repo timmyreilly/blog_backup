@@ -17,4 +17,4 @@ So why not increase the minimum wage on a linear path, so that we don't let peop
 
 There are so many variables and issues to be considered, I wish I could run clear experiments to determine the best result... I love arguing with my grandfather about it, but it would be awesome if we were on the same page according to evidence instead of speculative reasoning about the willingness of people to self motivate/educate and work to make our world better for everyone. Ahhhh it's crazy, I would love to spend more time learning about wage control.
 
-Construction Site in Seattle: So many linear lines! [![IMG_20140303_180021](images/IMG_20140303_180021-1024x1024.jpg)](http://timmyreilly.com/wp-content/uploads/2014/03/IMG_20140303_180021.jpg)
+Construction Site in Seattle: So many linear lines! [![IMG_20140303_180021](images/IMG_20140303_180021-1024x1024.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/03/IMG_20140303_180021.jpg)

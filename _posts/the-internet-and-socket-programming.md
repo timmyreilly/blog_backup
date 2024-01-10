@@ -5,7 +5,7 @@ date: "2014-01-15"
 
  
 
-[![Internet_map_1024_-_transparent](images/Internet_map_1024_-_transparent-300x300.png)](http://timmyreilly.com/wp-content/uploads/2014/01/Internet_map_1024_-_transparent.png)
+[![Internet_map_1024_-_transparent](images/Internet_map_1024_-_transparent-300x300.png)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/01/Internet_map_1024_-_transparent.png)
 
 I'm in my second week of my second to last quarter of college. It amazing how time flies. I'm looking forward to making the most of these last 20 weeks, and part of that means learning as much as I can.
 

@@ -13,4 +13,4 @@ The ability for Rails to control the model, view, and controller is so relieving
 
 Learning this makes me feel like a nerd, and I love it. I want to keep learning! I'd love to have a conversation with an expert about how ruby was created, and how it works, just to geek out for a bit!
 
-In other news... This was a photo I took of a mountain. I'm excited to begin using color to create a rich experience in applications I design. Snort! [![Airplane's and Mountains](images/IMG_20131209_170404-1024x768.jpg)](http://timmyreilly.com/wp-content/uploads/2014/02/IMG_20131209_170404.jpg)
+In other news... This was a photo I took of a mountain. I'm excited to begin using color to create a rich experience in applications I design. Snort! [![Airplane's and Mountains](images/IMG_20131209_170404-1024x768.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/02/IMG_20131209_170404.jpg)

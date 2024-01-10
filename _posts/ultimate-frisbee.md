@@ -3,7 +3,7 @@ title: "Ultimate Frisbee"
 date: "2014-03-05"
 ---
 
-[![IMG_0055](images/IMG_0055-765x1024.jpg)](http://timmyreilly.com/wp-content/uploads/2014/03/IMG_0055.jpg)
+[![IMG_0055](images/IMG_0055-765x1024.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/03/IMG_0055.jpg)
 
 I read in article recently about playing Ultimate, and if anyone finds it let me know, because I can't find it anywhere... I think it was in somebodies blog...
 
@@ -11,7 +11,7 @@ The one line from the article I can't stop thinking about goes something like th
 
 The reason this idea reverberates so well with me is because I sincerely enjoy watching a frisbee travel through the air. It's amazing, and so unique to this sport. There's something about how it slows down everything around it, and allows you to watch and track so fluidly, its engrossing! I love frisbee.
 
-[![TINYPLANET_PANO_20131108_153532](images/TINYPLANET_PANO_20131108_153532-1024x1024.jpg)](http://timmyreilly.com/wp-content/uploads/2014/03/TINYPLANET_PANO_20131108_153532.jpg)
+[![TINYPLANET_PANO_20131108_153532](images/TINYPLANET_PANO_20131108_153532-1024x1024.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/03/TINYPLANET_PANO_20131108_153532.jpg)
 
 5 Reasons to play Ultimate:
 
@@ -23,4 +23,4 @@ The reason this idea reverberates so well with me is because I sincerely enjoy w
 
 I love frisbee. I can't say it enough.
 
-[![IMG_20130603_204313](images/IMG_20130603_204313-1024x919.jpg)](http://timmyreilly.com/wp-content/uploads/2014/03/IMG_20130603_204313.jpg)
+[![IMG_20130603_204313](images/IMG_20130603_204313-1024x919.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/03/IMG_20130603_204313.jpg)

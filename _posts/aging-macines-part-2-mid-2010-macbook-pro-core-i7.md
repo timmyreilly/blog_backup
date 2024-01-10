@@ -12,7 +12,7 @@ I've owned this computer for 4 years. Originally released on [April 13th 2010](h
 
 I purchased the [Core i7](http://en.wikipedia.org/wiki/Intel_Core "Intel Core Wiki") with 500GB HD for ~$2000, which is not cheap, but it turned out essential to my enjoyment of computer work that in turn sparked my interest in computer science! So just to get some advice out of the way. It's worth it to spend a little more on getting a computer you love, especially if you know you'll be using it everyday.
 
-\[caption id="attachment\_233" align="alignnone" width="375"\][![Gif of Macbook Pro](images/IMG_20140528_134855.gif)](http://timmyreilly.com/wp-content/uploads/2014/05/IMG_20140528_134855.gif) Trying out Lens Blur Parallax generator! Snort: http://depthy.me/#/\[/caption\]
+\[caption id="attachment\_233" align="alignnone" width="375"\][![Gif of Macbook Pro](images/IMG_20140528_134855.gif)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/05/IMG_20140528_134855.gif) Trying out Lens Blur Parallax generator! Snort: http://depthy.me/#/\[/caption\]
 
 Moving on, this computer has aged very well, but I've helped keep it fresh. Before I even had it, I purchased a hard-shell case and an invisible shield. Having a case for your computer is a little dorky, but after spending $2000 dollars I wasn't going to take any chances.
 
@@ -22,7 +22,7 @@ It was also in the third year when I was noticing the battery lasting 3ish hours
 
 Now I'm on the 5th year of the computer's life, and back in October Mavericks came out for free! And my computer was one of the oldest to be eligible for an upgrade. So I balked until I had some money to upgrade the SSD and RAM. So in December when I accepted a job at Microsoft I made the $300 investment installed more [RAM](http://www.newegg.com/Product/Product.aspx?Item=N82E16820148604 "More Crucial RAM! ") and removed my old hard drive and installed mavericks on a fresh [SSD](http://www.newegg.com/Product/Product.aspx?Item=N82E16820148694 "Crucial SSD"), which helped a ton. Its fast and can handle Mavericks, and starting with a new SSD was great for my senior classes because I could try all sorts of different development environments without worrying about gunking up the computer too much. I actually restored it two more times to dial in a well organized environment! All in all, a very wise investment, but the battery was another story.
 
-\[caption id="attachment\_237" align="alignnone" width="474"\][![Dented Macbook Bottom](images/IMG_20140528_134229-1024x768.jpg)](http://timmyreilly.com/wp-content/uploads/2014/05/IMG_20140528_134229.jpg) Little Dent\[/caption\]
+\[caption id="attachment\_237" align="alignnone" width="474"\][![Dented Macbook Bottom](images/IMG_20140528_134229-1024x768.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/05/IMG_20140528_134229.jpg) Little Dent\[/caption\]
 
 It has severely suffered, I get less than 2 hours of battery life now, which isn't terrible, it just makes working on the go a little difficult. Also the outside of the computer has taken some damage. There is a dent on the bottom part of the chassis and tiny scratches can be seen on the screen. The keyboard, especially the space bar, is showing its age. The fan has also been running much more frequently recently, which might be [Mavericks](http://en.wikipedia.org/wiki/OS_X_Mavericks "Wiki for Mavericks") fault. Its been running really hot, so hot sometimes I can't put it on my lap.
 
@@ -30,6 +30,6 @@ June will be this computers 5th birthday. At $2000 dollars originally with $300 
 
 All told this computer has aged very well, WITH proper care. If you have any questions about upgrades or recommendations for further upgrades please let me know.
 
-\[caption id="attachment\_236" align="alignnone" width="474"\][![Picture of Macbook pro](images/IMG_20140528_134405-1024x768.jpg)](http://timmyreilly.com/wp-content/uploads/2014/05/IMG_20140528_134405.jpg) Such MacBook\[/caption\]
+\[caption id="attachment\_236" align="alignnone" width="474"\][![Picture of Macbook pro](images/IMG_20140528_134405-1024x768.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/05/IMG_20140528_134405.jpg) Such MacBook\[/caption\]
 
 Next week on aging devices: Kindle Fire!

@@ -11,7 +11,7 @@ But that's all about to change... and I'm stoked! I can't wait to go to Californ
 
 I feel like I should defend myself for wanting to live in California that I need a reason. It's ironic I happen to me moving there at a time of anti-technology sentiment, especially in the downtown area. I feel like I'm contributing to a problem, and I have to find some way to justify it. Also, the cost of housing is the highest in the nation?! Whoa, that's kind of a coincidence too. What is happening in San Francisco that is driving the prices so high? I hope I find out.
 
-\[caption id="attachment\_190" align="alignnone" width="474"\][![Tahoe](images/IMG_20130916_185350-e1399628221954-768x1024.jpg)](http://timmyreilly.com/wp-content/uploads/2014/05/IMG_20130916_185350-e1399628221954.jpg) Tahoe\[/caption\]
+\[caption id="attachment\_190" align="alignnone" width="474"\][![Tahoe](images/IMG_20130916_185350-e1399628221954-768x1024.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/05/IMG_20130916_185350-e1399628221954.jpg) Tahoe\[/caption\]
 
 A couple ideas for a fellow yuppie transplant: **Where to live?** Apparently San Francisco's neighborhoods have "Personality":[This article from the Bold Italic was helpful](http://www.thebolditalic.com/articles/1958-moving-to-san-francisco "The Bold Italic")
 
@@ -25,6 +25,6 @@ Ahh man that would be a good idea for an app, a moving cost calculator. Compare 
 
 **Getting a motorcycle?** According to my cousin and her boyfriend getting a motorcycle is the way to go. In California they have lane splitting which means you don't worry about rush hour or staying alive. California has a good DMV website, and the checklist for getting a motorcycle license is [clear](http://www.dmv.ca.gov/dl/checklists/mc.htm), and to save money on your insurance and to not take the driving test at the DMV you can take a [Basic RidersCourse.](http://www.ca-msp.org/ "MA MSP")
 
-\[caption id="attachment\_191" align="alignnone" width="474"\][![Happy Derpy Dog](images/IMG_20131018_145355-e1399628274451-768x1024.jpg)](http://timmyreilly.com/wp-content/uploads/2014/05/IMG_20131018_145355-e1399628274451.jpg) Out of Context Happy Derp\[/caption\]
+\[caption id="attachment\_191" align="alignnone" width="474"\][![Happy Derpy Dog](images/IMG_20131018_145355-e1399628274451-768x1024.jpg)](http://timmyreilly.azurewebsites.net/wp-content/uploads/2014/05/IMG_20131018_145355-e1399628274451.jpg) Out of Context Happy Derp\[/caption\]
 
 I hope this helps someone out. Let me know if you have any questions!
