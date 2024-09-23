@@ -1,5 +1,5 @@
 ---
 ---
-{% include css/base.css %}
-{% include css/skeleton.css %}
-{% include css/main.css %}
+{% include blog/css/base.css %}
+{% include blog/css/skeleton.css %}
+{% include blog/css/main.css %}
