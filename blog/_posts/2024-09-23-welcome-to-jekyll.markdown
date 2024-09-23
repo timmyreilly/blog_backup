@@ -1,9 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-09-23 22:51:07 +0000
+title:  "Welcome to The Root Post!"
+date:   2010-09-23 22:51:07 +0000
 categories: jekyll update
 ---
+
+Working on clearing out the content from the blog and replacing with old posts as they seem relevant, also have to fix the image pathing, and evaluate the 'cd' step from medium to markdown / jekyll.
+
+Images work like this?? 
+<!-- ![][backup_blog/_posts/images/IMG_1603-e1418082177902.jpg] -->
+![](./images/IMG_1603-e1418082177902.jpg)
+
+Videos work like this??
+<iframe width="560" height="315" src="//www.youtube.com/embed/8z_CqyB1dQo" frameborder="0" allowfullscreen></iframe>
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

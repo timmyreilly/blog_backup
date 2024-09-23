@@ -11,4 +11,8 @@
 
 ## Pages / Blog
 
+
+```
 cd blog
+bundle exec jekyll serve
+```
