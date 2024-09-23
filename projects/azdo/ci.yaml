@@ -1,0 +1,61 @@
+trigger:
+  - main
+
+pool:
+  vmImage: "ubuntu-latest"
+
+strategy:
+  matrix:
+    Python312:
+      python.version: "3.12"
+
+steps:
+  # Use the specified Python version
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: "$(python.version)"
+    displayName: "Set up Python $(python.version)"
+  
+  # Upgrade pip and install dependencies
+  - script: |
+      python -m pip install --upgrade pip==23.1.2  # Explicit version for stability
+      pip install -r requirements.txt || exit 1
+      pip install -r requirements.dev.txt || exit 1
+    displayName: "Install Python Dependencies"
+  
+  # Ensure linters and formatters are installed
+  - script: |
+      pip install ruff pyright black
+    displayName: "Install Code Quality Tools"
+
+  # Run formatters and linters
+  - script: |
+      echo "Running black for code formatting..."
+      black --check .
+      echo "Running ruff for linting..."
+      ruff check .
+      echo "Running pyright for type checking..."
+      pyright .
+    displayName: "Run Code Formatters and Linters"
+    condition: succeededOrFailed()
+
+  # Run the test suite
+  - script: |
+      echo "Running tests..."
+      ./scripts/run_tests.sh
+    displayName: "Run Unit Tests"
+
+  # Publish the test results
+  - task: PublishTestResults@2
+    condition: succeededOrFailed()
+    inputs:
+      testResultsFiles: "**/test-*.xml"
+      testRunTitle: "Python $(python.version) Test Results"
+    displayName: "Publish Unit Test Results"
+
+  # Publish the code coverage results
+  - task: PublishCodeCoverageResults@2
+    inputs:
+      summaryFileLocation: "$(System.DefaultWorkingDirectory)/**/coverage.xml"
+    displayName: "Publish Code Coverage Results"
+
