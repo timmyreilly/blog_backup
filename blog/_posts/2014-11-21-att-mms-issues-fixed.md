@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "AT&T MMS Issues FIXED"
 date: "2014-11-21"
 tags: 
