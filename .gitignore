@@ -1,7 +1,10 @@
 _site/
 .DS_Store
 
+
+
 # Misc. Repository
+Gemfile.lock
 playground/*
 dataset/data.csv
 experiment-cfg.yaml
