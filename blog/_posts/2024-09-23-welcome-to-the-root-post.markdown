@@ -10,6 +10,7 @@ Working on clearing out the content from the blog and replacing with old posts a
 Images work like this?? 
 <!-- ![][backup_blog/_posts/images/IMG_1603-e1418082177902.jpg] -->
 ![](./images/IMG_1603-e1418082177902.jpg)
+![](../_posts/images/IMG_1603-e1418082177902.jpg)
 
 Videos work like this??
 <iframe width="560" height="315" src="//www.youtube.com/embed/8z_CqyB1dQo" frameborder="0" allowfullscreen></iframe>
