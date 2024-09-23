@@ -3,19 +3,9 @@ _site/
 
 # Misc. Repository
 playground/*
-!playground/code_relationships.ipynb
-!playground/spike_sample.ipynb
-!playground/spike_sample.py
-!playground/chat_completion.py
-data/icd10cm-codes-April-2024.txt
 dataset/data.csv
-ground_truths/data.json
 experiment-cfg.yaml
 config.json
-icd10cm-order-April-2024.txt
-icd10pcs_codes_2023.txt
-icd10_addendum.csv
-icd10diagnoses.csv
 noteevents.csv
 .idea
 data_points.json
