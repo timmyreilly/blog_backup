@@ -4,28 +4,26 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink : /:year 
+permalink: /blog/:year/:title/  # Set permalink structure for blog posts
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: rouge 
+highlighter: rouge
 future: true
-baseurl: /
+baseurl: "/blog"  # Blog content is served from the /blog subdirectory
 
 ### content configuration ###
-title:       "Timmy Reillys Backup Blog"
+title:       "Timmy Reilly's Backup Blog"
 keywords:    "Timmy Reilly, Engineering"
 description: "A place to learn!"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "blog/img/favicon.ico"
 touch_icon:  "blog/img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-49607422-1  ## Add your Google Analytics key here
 
-
-### template colors, used site-wide via css ###
+### template colors, used site-wide via CSS ###
 colors:
   black:     '#000000'
   white:     '#ffffff'
@@ -40,8 +38,6 @@ colors:
   red:       '#E81123'
   magenta:   '#E40098'
   teal:      '#008272'
-  
 
 kramdown:
-  auto_ids:  false
-
+  auto_ids: false
