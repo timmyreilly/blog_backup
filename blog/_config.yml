@@ -22,7 +22,7 @@ title: Timmy Reilly
 email: timreilly@live.com
 description: >- # this means to ignore newlines until "baseurl:"
   Timmy Reilly's project and blog root
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: timmyreilly
 github_username:  timmyreilly
@@ -36,6 +36,13 @@ markdown: kramdown
 
 kramdown:
   auto_ids: false
+
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      image: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -8,9 +8,9 @@ categories: jekyll update
 Working on clearing out the content from the blog and replacing with old posts as they seem relevant, also have to fix the image pathing, and evaluate the 'cd' step from medium to markdown / jekyll.
 
 Images work like this?? 
-<!-- ![][backup_blog/_posts/images/IMG_1603-e1418082177902.jpg] -->
-![](./images/IMG_1603-e1418082177902.jpg)
-![](../_posts/images/IMG_1603-e1418082177902.jpg)
+
+![!myHelpfuls](/assets/windows.png)
+
 
 Videos work like this??
 <iframe width="560" height="315" src="//www.youtube.com/embed/8z_CqyB1dQo" frameborder="0" allowfullscreen></iframe>
